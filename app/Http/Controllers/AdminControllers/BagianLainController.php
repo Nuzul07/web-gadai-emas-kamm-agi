@@ -19,6 +19,7 @@ class BagianLainController extends Controller
     {
         $haha = "huhu";
         $nama = "alief";
+        $nama = "nuzul";
         return Inertia::render('Admin/MasterData/SewaModal');
     }
 
